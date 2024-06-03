@@ -15,7 +15,7 @@ def create_lithophane(image_path, output_stl_path, scale=.05, max_height=.50, ba
     img = img_as_float(img)
     print(f"Normalized...")
     # Calculate the height map: invert the brightness to get the thickness
-    height_map = (img * max_height + base_thickness)%0.000000000000001
+    height_map = (img * max_height + base_thickness)
     print(f"Height map created...")
     # Get the dimensions of the image
     height, width = height_map.shape
