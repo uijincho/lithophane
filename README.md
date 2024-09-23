@@ -60,7 +60,7 @@ You can convert any grayscale image (or convert color images to grayscale using 
 - Infill: Higher infill percentages (around 100%) will provide better light diffusion through the lithophane.
 
 ## License
-This project is licensed under the MIT License. See the LICENSE file for details.
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ## Contributing
 Feel free to submit issues or pull requests! Contributions are welcome.
