@@ -1,3 +1,13 @@
+# Project Name: Image to Lithophane STL Generator
+# Author: Uijin Cho
+# Github: https://github.com/jinc77/lithophane
+# Contact: jinc3930@gmail.com
+# License: MIT License
+# Description: Convert an image to STL
+
+# License Details:
+# This project is licensed under the MIT License – see the LICENSE file for details.
+
 import numpy as np
 import cv2
 from stl import mesh
